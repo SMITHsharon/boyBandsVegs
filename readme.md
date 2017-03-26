@@ -1,10 +1,10 @@
 # NSS Boy Bands and Vegetables
 
 ### Project Description 
-This exercise loops through two different arrays, to output paired elements from the two arrays to the DOM.
+This exercise loops through two different arrays and writes the elements from the separate arrays to their respective container elements in the DOM.
 
 #### Boy Bands and Vegs Screen Grab Output
-![Boy Bands and Vegs Screen Grab](...)
+![Boy Bands and Vegs Screen Grab](https://raw.githubusercontent.com/SMITHsharon/boyBandsVegs/screen/screen/Boy%20Bands%20and%20Vegs%20Screen%20Grab.png)
 
 
 ### Project Specs
@@ -18,7 +18,7 @@ Given, the following `html` code:
 	</div>
 	```
 
-Given, the following `javascript code:
+Given, the following `javascript` code:
 
 	```
 	var bands = ["Boyz II Men", "NSync", "New Kids on the Block", "98 Degrees", "One Direction"];
@@ -50,9 +50,9 @@ Given, the following `javascript code:
 	}
 	```
 
-- Looped through the two `bands` and `vegetables` arrays. 
+- Looped through the `bands` and `vegetables` arrays. 
 - Output each element in the arrays into their corresponding `html` `<div>` element. 
-- Each item is written to a `<ul><li> ... </li></ul> block element. 
+- Each item is written to a `<ul><li> ... </li></ul>` block element. 
 
 
 ### Technologies Used
