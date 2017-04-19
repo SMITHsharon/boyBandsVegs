@@ -18,7 +18,7 @@ Given, the following `html` code:
 	</div>
 	```
 
-Given, the following `javascript` code:
+Given, the following `JavaScript` code:
 
 	```
 	var bands = ["Boyz II Men", "NSync", "New Kids on the Block", "98 Degrees", "One Direction"];
@@ -50,14 +50,14 @@ Given, the following `javascript` code:
 	}
 	```
 
-- Looped through the `bands` and `vegetables` arrays. 
-- Output each element in the arrays into their corresponding `html` `<div>` element. 
+- Loops through the `bands` and `vegetables` arrays. 
+- Outputs each element in the arrays into their corresponding `html` `<div>` element. 
 - Each item is written to a `<ul><li> ... </li></ul>` block element. 
 
 
 ### Technologies Used
 - `html`
-- `javascript`
+- `JavaScript`
 
 
 ### How To Run the App
@@ -65,11 +65,9 @@ Given, the following `javascript` code:
 ```
 git clone https://github.com/SMITHsharon/boyBandsVegs.git
 cd boybands
-npm install http-server -g
 http-server -p 8080
+This will show in your browser (at the console) at: http://localhost:8080
 ```
-
-This will show in your browser (at the console) at: `http://localhost:8080`
 
 
 ### Contributor
